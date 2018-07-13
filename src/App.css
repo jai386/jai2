@@ -1,0 +1,37 @@
+*
+{
+  margin: 0;
+  padding: 0;
+}
+
+.div1 {
+  width: 300px;
+  height: 190px;
+  padding: 10px;
+  border:solid green;
+  background: blue;
+}
+
+.div2 {
+  width: 300px;
+  height: 300px;
+  padding: 10px;
+  border:solid green;
+  background: blue;
+}
+
+body {
+  background: url("dompizza.JPG");
+  background-position: center;
+  background-size: cover;
+}
+
+ul {
+  float: center;
+  color: black;
+  margin:0px;
+}
+
+.container {
+  img-size: 100px;
+}

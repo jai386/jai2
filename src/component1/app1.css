@@ -1,0 +1,47 @@
+*
+{
+  margin: 0;
+  padding: 0;
+}
+
+.page{
+  background: #B8E66D;
+  
+}
+
+.App-title {
+  font-size: 1.5em;
+  text-align: center;
+
+}
+.Routelink{
+  margin-bottom: 80px; 
+  background-color: #8C9086;
+}
+
+.header
+{
+  background-color: #222;
+}
+.footer
+{
+  background-color: red;
+  margin-top: 450px;
+  text-align: center;
+}
+#data1
+{
+  margin-top:60px;
+}
+.form1
+{
+  background-color: blue;
+  width: 200px;
+  height: 100px;
+}
+.form2
+{
+  background-color: orange;
+  width: 200px;
+  height: 100px;
+}
